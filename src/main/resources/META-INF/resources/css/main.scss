@@ -1,0 +1,30 @@
+.UsuariosCrmPortlet {
+.btn-usuarios {    
+    min-width: 15px !important;
+    margin: 0px !important;
+    padding: 5px !important;
+    font-size: 20px !important;
+    color: #1976d2 !important;
+    box-shadow: none !important;
+}
+
+.dataTables_filter {
+    display: none;
+}
+
+.buttons-excel {
+    display: none;
+}
+
+
+.nuevo{
+	color:red;
+}
+.switch label input[type=checkbox]:checked + .lever:after{
+	background-color: #4285f4 !important;
+}
+
+.switch label input[type=checkbox]:checked + .lever{
+	background-color: #c7e0f1 !important;
+}
+}
